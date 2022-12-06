@@ -12,7 +12,6 @@ const encrypt = (word, k, i) => {
 
 function white_encrypt(info) {
     return info["timeStamp"] + info["text"]["clientTs"] + "_" + encrypt(JSON.stringify(info["text"]), info["key"], info["iv"])
-    // return info["timeStamp"] + info["text"]["clientTs"] + "_" + encrypt('{"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36","url":"https://index.baidu.com/v2/main/index.html#/trend/python?words=python","platform":"Win32","clientTs":1670245897141,"version":"1.0.0.5"}', info["key"], info["iv"])
 }
 
 // 测试用例
