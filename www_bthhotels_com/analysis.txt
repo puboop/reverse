@@ -1,0 +1,35 @@
+首页url：
+https://www.bthhotels.com/list/shanghai
+
+font-face
+
+woff2 to woff
+https://cloudconvert.com/woff2-to-woff
+字体文件：
+https://images.bthhotels.com/PriceImg/Iconfont/97e6f327a67d4818.woff2
+
+
+rmb_qi_price price
+
+&#xEFA4     2   a65ef3dbbd8049fc94c1397136aaa9e9
+&#xF45A     3   7144b9de8a004f60835e7e72479f0371
+&#xF15A     6   9cd5d93473ba4609b96a15767ab48925
+
+&#xF409     2   d9bb2a89a4a54fdbaada71a877bb4661
+&#xE5F8     7   2561b54f86884399ae504a85eb05b98a
+&#xF4DF     8   bb466cd60070471db1b5d22bf82ba668
+
+2 $E0AF,$E0E7,$E151,$E1BC,$E228,$E38C,$E3F4,$E492,$E548,$E649,$E74D,$E826,$E933,$E938,$E955,$E9CE,$EAC7,$EBE1,$EC13,$EC30,$EC4C,$EC85,$ECAF,$ECE9,$ECF2,$EE8D,$EEA2,$EFA4,$F04D,$F0F9,$F0FD,$F126,$F148,$F193,$F1C8,$F1D1,$F1D3,$F25A,$F319,$F329,$F34B,$F3C2,$F3F0,$F409,$F42C,$F4BA,$F58C,$F5BC,$F815,$F86E
+
+font_source = {
+    "0": "$E0BD,$E0C5,$E1AB,...,$F811".split(","),
+    "1": "$E0F8,$E0FB,$E15D,...,$F8AB".split(","),
+    "2": "$E0AF,$E0E7,$E151,...,$F86E".split(","),
+    "3": "$E01C,$E083,$E087,...,$F87E".split(","),
+    "4": "$E076,$E0FF,$F0A5,...,$F863".split(","),
+    "5": "$E01F,$F230,$F239,...,$F7A5".split(","),
+    "6": "$E072,$E0A8,$E0C9,...,$F8DF".split(","),
+    "7": "$E0D8,$E0EE,$E191,...$F8BC".split(","),
+    "8": "$E0B7,$E0C4,$E0F0,...,$F8B7".split(","),
+    "9": "$E067,$E09D,$E0B5,...,$F821".split(",")
+}
